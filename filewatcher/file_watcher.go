@@ -8,7 +8,7 @@ import (
 	"time"
 
 	"github.com/fsnotify/fsnotify"
-	"github.com/turbot/go-kit/files"
+	"github.com/turbot/pipe-helpers/files"
 )
 
 // allow a short delay before starting handler

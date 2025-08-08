@@ -8,7 +8,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/turbot/go-kit/files"
+	"github.com/turbot/pipe-helpers/files"
 )
 
 // RotatingLogWriter is an io.Writer which can rotate the log files that it is writing to
