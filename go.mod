@@ -8,7 +8,7 @@ require (
 	github.com/aws/aws-sdk-go v1.44.183
 	github.com/briandowns/spinner v1.23.0
 	github.com/btubbs/datetime v0.1.1
-	github.com/containerd/containerd v1.7.27
+	github.com/containerd/containerd v1.7.29
 	github.com/danwakefield/fnmatch v0.0.0-20160403171240-cbb64ac3d964
 	github.com/dustin/go-humanize v1.0.1
 	github.com/fatih/color v1.18.0
